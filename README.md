@@ -1,5 +1,11 @@
 # speech-to-speech
 
+## Click on this image to watch the video tutorial on youtube
+ [![Watch the video](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqynFOgYK04eSci2MJZ-qZbh-pepy25tMoKYhIk4nefOTu35UnHJ89_Cd9AL6wDlRRJALW9Rc9F96CIbNmwt4gvVhFXRuUwnvoc20xWR9DKiZBtMn2CpzU0qdW3fyKFnUNSd7vBt7rYKGrbyUOnPw3w75FQJutShzCpaiPGUIgwN6ek4Ut4HrrMkxI/s1280/No%20More%20Procrastination%20YouTube%20Thumbnail.png)](https://youtu.be/FBQRnuT4vhY)
+<br>
+
+
+
 [If you don't know how to install python](https://youtu.be/Ebh157e3FkQ)<br>
 
 # Step 1<br>
