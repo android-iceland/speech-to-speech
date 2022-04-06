@@ -1,5 +1,5 @@
 app_url="https://44344.gradio.app/"
-
+voice_model=0
 import os
 import speech_recognition as sr
 
